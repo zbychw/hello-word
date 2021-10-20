@@ -17,4 +17,7 @@ soup
 ice cream
 sugar
 flour
-
+PUCCH_F0
+L1LOW
+sweet_H
+bread
